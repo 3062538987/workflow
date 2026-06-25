@@ -1,0 +1,10 @@
+{
+  "vintage": {
+    "lora_model": 0.5,
+    "lora_clip": 1.1,
+    "steps": 25,
+    "cfg": 8.5,
+    "seed": 88976519,
+    "score": 0.782857142857143
+  }
+}

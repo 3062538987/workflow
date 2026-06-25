@@ -1,0 +1,5 @@
+style,trial,lora_model,lora_clip,steps,cfg,seed,similarity,image_path,timestamp
+vintage,1,0.75,0.9,25,7.5,77048811,0.802857142857143,lora_tuning_results/vintage/trial_001_m75_c90.png,2026-06-25 14:42:03
+vintage,2,0.5,1.1,25,6.5,27835648,0.782857142857143,lora_tuning_results/vintage/trial_002_m50_c110.png,2026-06-25 14:44:34
+vintage,3,0.7000000000000001,0.1,30,8.0,57807257,0.4914285714285715,lora_tuning_results/vintage/trial_003_m70_c10.png,2026-06-25 15:01:48
+vintage,3,0.5,1.1,25,8.5,88976519,0.782857142857143,lora_tuning_results/vintage/trial_003_m50_c110.png,2026-06-25 15:11:18
